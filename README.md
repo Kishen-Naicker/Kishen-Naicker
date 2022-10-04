@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Angular and Node.js**
 
-- 💬 Ask me about **Android, C#, Java and Web**
+- 💬 Ask me about **Android, C#, Java and Web** development
 
 - 📫 How to reach me **kishen.developer@gmail.com**
 
